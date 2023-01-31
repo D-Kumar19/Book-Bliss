@@ -3,7 +3,7 @@ Get Lost in Books with Book Bliss, Your Digital Librarian!
 
 Discover a new world of reading with Book Bliss, your one-stop solution for library management. Say goodbye to the hassle of traditional library visits and long waitlists for your favorite books. With Book Bliss, you can manage your library experience from the comfort of your own home.
 
-##Features:
+## Features:
 - **Easy Registration:** Sign up and create a personalized profile with your reading preferences.
 - **Rent & Return Books:** Rent and return books with ease, and track your rented books history.
 - **Vast Library:** Browse through a vast library of books, and get instant access with just a click.
@@ -17,9 +17,9 @@ Discover a new world of reading with Book Bliss, your one-stop solution for libr
 - You will be assigned a unique 7-digit **user ID**.
 - If you have already registered, simply enter your **user ID** and **password** to log in.
 - Once logged in, you will have access to the following options:
- - Check your profile
- - Browse the library books
- - Check rented books
+  - Check your profile
+  - Browse the library books
+  - Check rented books
 - If you forget your password, click the **Forgot Password** button to reset it.
 - When you click the **Library Books** option, you will be able to browse through the available books.
 - To rent a book, simply click the **Rent** button and the book will be added to your profile.
