@@ -31,14 +31,14 @@ Start your Book Bliss journey today and elevate your reading experience! Try it 
 ```diff
 - Pictures of the Application:
 ```
-<br> [1) Main Login Page of the App](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/1)%20Main%20Login%20Page.png) </br>
-<br> [2) Register Page of the App](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/2)%20Register%20Page.png) </br>
-<br> [3) Successfully Registered Message](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/3)%20Successfully%20Registered.png) </br>
-<br> [4) Image if you are already Registered](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/4)%20Already%20Registered.png) </br>
-<br> [5) Forgot Password Page](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/5)%20Forgot%20Password%20Page.png) </br>
-<br> [6) Forgot Password Incorrect Details](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/6)%20Forgot%20Password%20Inccorect%20Details.png) </br>
-<br> [7) Forgot Password Valid Details](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/7)%20Forgot%20Password%20Valid%20Details.png) </br>
-<br> [8) Create a New Password Page](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/8)%20Create%20A%20New%20Password%20Page.png) </br>
+<br> [1) Main Login Page of the App](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/1%20Main%20Login%20Page.png) </br>
+<br> [2) Register Page of the App](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/2%20Register%20Page.png) </br>
+<br> [3) Successfully Registered Message](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/3%20Successfully%20Registered.png) </br>
+<br> [4) Image if you are already Registered](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/4%20Already%20Registered.png) </br>
+<br> [5) Forgot Password Page](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/5%20Forgot%20Password%20Page.png) </br>
+<br> [6) Forgot Password Incorrect Details](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/6%20Forgot%20Password%20Inccorect%20Details.png) </br>
+<br> [7) Forgot Password Valid Details](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/7%20Forgot%20Password%20Valid%20Details.png) </br>
+<br> [8) Create a New Password Page](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/8%20Create%20A%20New%20Password%20Page.png) </br>
 <br> [9) New Password same as Previous one](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/9)%20Newer%20Password%20same%20as%20previous%20one.png) </br>
 <br> [10) Both Passwords are not same](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/10)%20Both%20passwords%20are%20not%20same.png) </br>
 <br> [11) Both conditions are met and Password is changed](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/11)%20Both%20conditions%20are%20met%20then%20password%20is%20set.png) </br>
