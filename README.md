@@ -31,7 +31,7 @@ Start your Book Bliss journey today and elevate your reading experience! Try it 
 ```diff
 - Pictures of the Application:
 ```
-<br> [1) Main Login Page of the App](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/1%20Main%20Login%20Page.png) </br>
+<br> [1) Main Login Page of the App]((https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/1)%20Main%20Login%20Page.png) </br>
 <br> [2) Register Page of the App](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/2%20Register%20Page.png) </br>
 <br> [3) Successfully Registered Message](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/3%20Successfully%20Registered.png) </br>
 <br> [4) Image if you are already Registered](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/4%20Already%20Registered.png) </br>
