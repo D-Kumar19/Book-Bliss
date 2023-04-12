@@ -31,4 +31,4 @@ Start your Book Bliss journey today and elevate your reading experience! Try it 
 ```diff
 - Pictures of the Application:
 ```
-<br> [1) Pictres](https://github.com/D-Kumar19/Book-Bliss/tree/master/Pictures) </br>
+<br> [1) Pictures](https://github.com/D-Kumar19/Book-Bliss/tree/master/Pictures) </br>
