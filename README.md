@@ -38,7 +38,7 @@ Ready to transform your reading experience? **EnchantLibrary** awaits. Start exp
 
 ## 🛠 Main Application
 
-- [View Main Application](https://github.com/D-Kumar19/Book-Bliss/src/main/java/com/example/libraryapp/MainActivity.java)
+- [View Main Application](https://github.com/D-Kumar19/Book-Bliss/blob/master/src/main/java/com/example/libraryapp/MainActivity.java)
 
 ---
 
