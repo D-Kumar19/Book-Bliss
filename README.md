@@ -34,7 +34,13 @@ Ready to transform your reading experience? **Book Bliss** awaits. Start explori
 
 ## 📸 Application Visuals
 
-- [Browse Application Screenshots](https://github.com/D-Kumar19/Book-Bliss/tree/master/Pictures)
+### Take a closer look at Book Bliss with these application screenshots:
+
+- ![Main Login Page](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/1)%20Main%20Login%20Page.png)
+- ![Register Page](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/2)%20Register%20Page.png)
+- ![Opening a Book](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/17)%20Opening%20a%20Book.png)
+- ![User's Profile after Adding Books](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/22)%20Users%20Profile%20after%20adding%20books.png)
+- ![Books after Giving Back the Book](https://github.com/D-Kumar19/Book-Bliss/blob/master/Pictures/25)%20Books%20after%20giving%20back%20the%20book.png)
 
 ## 🛠 Main Application
 
