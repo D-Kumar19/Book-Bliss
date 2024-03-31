@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import android.content.Intent;
 import android.widget.ListView;
 import android.widget.TextView;
+import com.example.libraryapp.MainLibraryPageActivity;
 import android.widget.ArrayAdapter;
 import android.support.v7.app.AppCompatActivity;
 
