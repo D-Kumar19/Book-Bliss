@@ -34,7 +34,7 @@ Ready to transform your reading experience? **EnchantLibrary** awaits. Start exp
 
 ## 📸 Application Visuals
 
-- [Browse Application Screenshots](https://github.com/D-Kumar19/Book-Bliss/tree/master/pictures)
+- [Browse Application Screenshots](https://github.com/D-Kumar19/Book-Bliss/tree/master/Pictures)
 
 ## 🛠 Main Application
 
