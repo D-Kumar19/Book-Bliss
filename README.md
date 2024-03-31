@@ -1,10 +1,10 @@
-# EnchantLibrary: Elevate Your Reading Experience
+# Book Bliss: Elevate Your Reading Experience
 
-Welcome to **EnchantLibrary**, where every page turn opens a new adventure! Dive deep into the endless ocean of books with EnchantLibrary, your digital companion in the quest for knowledge, entertainment, and beyond. Why juggle through stacks or wait in line when a world of books awaits at your fingertips? Embark on your reading journey with EnchantLibrary and transform the way you read.
+Welcome to **Book Bliss**, where every page turn opens a new adventure! Dive deep into the endless ocean of books with Book Bliss, your digital companion in the quest for knowledge, entertainment, and beyond. Why juggle through stacks or wait in line when a world of books awaits at your fingertips? Embark on your reading journey with Book Bliss and transform the way you read.
 
 ## 📚 Features
 
-With EnchantLibrary, immerse yourself in a seamless reading experience tailored just for you. Here's what sets us apart:
+With Book Bliss, immerse yourself in a seamless reading experience tailored just for you. Here's what sets us apart:
 
 - **Personalized Profiles**: Register effortlessly and tailor your reading space to your preferences.
 - **Rent and Return with Ease**: Bid adieu to overdue worries with our streamlined book rental and return process.
@@ -14,9 +14,9 @@ With EnchantLibrary, immerse yourself in a seamless reading experience tailored 
 
 ## 🚀 Getting Started
 
-Jump into your EnchantLibrary experience:
+Jump into your Book Bliss experience:
 
-1. **Initial Launch**: Open the EnchantLibrary app and navigate to the home screen.
+1. **Initial Launch**: Open the Book Bliss app and navigate to the home screen.
 2. **New Users**:
    - Tap **Register** to create your account.
    - Complete the sign-up with your **username** and **password**.
@@ -30,7 +30,7 @@ Jump into your EnchantLibrary experience:
 6. **Rent a Book**: Found a title you love? Click **Rent** to add it to your virtual shelf.
 7. **Book Returns**: Finished reading? Click **Return** to make the book available for others.
 
-Ready to transform your reading experience? **EnchantLibrary** awaits. Start exploring now!
+Ready to transform your reading experience? **Book Bliss** awaits. Start exploring now!
 
 ## 📸 Application Visuals
 
@@ -44,7 +44,7 @@ Ready to transform your reading experience? **EnchantLibrary** awaits. Start exp
 
 ## Contributing
 
-I welcome contributions to **Cryptonaut: RSA-Algorithm**! If you have suggestions for improving the game or have found a way to beat the current record, please feel free to contribute. Here's how you can do so:
+I welcome contributions to **Book Bliss**! If you have suggestions for improving the game or have found a way to beat the current record, please feel free to contribute. Here's how you can do so:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b <branch_name>`).
